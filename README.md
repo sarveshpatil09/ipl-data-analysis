@@ -1,2 +1,18 @@
-# ipl-data-analysis
-A data analysis project that analyzes IPL cricket data to find top teams, players, and match statistics using Python.
+# IPL Data Analysis Project
+
+This project analyzes IPL cricket data using Python.
+
+## Features
+- Team run analysis
+- Wicket statistics
+- Player performance analysis
+- Match win analysis
+- Data visualization
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+
+## Author
+Sarvesh Patil
